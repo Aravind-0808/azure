@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f0ed6b22.css",
+    "main.js": "/static/js/main.6ea37f34.js",
+    "static/js/239.de6f6b72.chunk.js": "/static/js/239.de6f6b72.chunk.js",
+    "static/js/213.312f36d2.chunk.js": "/static/js/213.312f36d2.chunk.js",
+    "static/js/732.75eb1e20.chunk.js": "/static/js/732.75eb1e20.chunk.js",
+    "static/media/Student_1.png": "/static/media/Student_1.979c7d3d37db34bd1e1f.png",
+    "static/media/Subramaniam.png": "/static/media/Subramaniam.d7d7a503ec8c8ec51cff.png",
+    "static/media/Logo.png": "/static/media/Logo.5196103c859e92229706.png",
+    "static/media/Nodatafound.jpg": "/static/media/Nodatafound.0b2a8ab9e1ef4fceeaaf.jpg",
+    "static/media/Selvakumar.png": "/static/media/Selvakumar.5d8add739b00e91cca78.png",
+    "static/media/Vijayadeepa.png": "/static/media/Vijayadeepa.5c2426d2399fb13af1c4.png",
+    "static/media/pngkey.com-students-png-1188650.png": "/static/media/pngkey.com-students-png-1188650.39f8e14742c8736830bc.png",
+    "static/media/MCAS-Top-logo-png-format.png": "/static/media/MCAS-Top-logo-png-format.129584febf1e28c349f7.png",
+    "static/media/progress.gif": "/static/media/progress.ab62a4774caf62e8936a.gif",
+    "static/media/Aravind.jpg": "/static/media/Aravind.1fdacdeefea3ef9b304d.jpg",
+    "static/media/Dineshkumar.jpg": "/static/media/Dineshkumar.fef13bcf3d72b4264846.jpg",
+    "static/media/error.png": "/static/media/error.9f8046a45d5e3d1dee12.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/index.html",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "main.f0ed6b22.css.map": "/static/css/main.f0ed6b22.css.map",
+    "main.6ea37f34.js.map": "/static/js/main.6ea37f34.js.map",
+    "239.de6f6b72.chunk.js.map": "/static/js/239.de6f6b72.chunk.js.map",
+    "213.312f36d2.chunk.js.map": "/static/js/213.312f36d2.chunk.js.map",
+    "732.75eb1e20.chunk.js.map": "/static/js/732.75eb1e20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0ed6b22.css",
+    "static/js/main.6ea37f34.js"
+  ]
+}
